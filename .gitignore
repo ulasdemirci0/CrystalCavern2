@@ -12,3 +12,9 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.zip
+Script
+Config
+Content/Collections
+Content/Developers
+Content/StarterContent
